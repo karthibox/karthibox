@@ -4,4 +4,4 @@ Blog about my personal interests and learning paths. What I learn everyday and n
 
 Posts
 
-[First Post](/firstPost.md)
+- [First Post](/firstPost.md)
