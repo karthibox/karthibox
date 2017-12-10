@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my blog. 
 
-You can use the [editor on GitHub](https://github.com/karthibox/karthibox.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Blog about my personal interests and learning paths. What I learn everyday and notes I want to keep and share. 
 
 ### Markdown
 
